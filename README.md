@@ -1,5 +1,5 @@
 # springboot利用spring restdoc创造api文档
-- 源代码来自github
+- 源代码来自github @forezp 感谢
 - Collections.singletonMap() 构造 map(单例)
 - mockmvc可以模拟请求 mockmvc.perform(get("/")) localhost:8080/
    - andExpect：添加ResultMatcher验证规则，验证控制器执行完成后结果是否正确,对返回的数据进行的判断 
